@@ -1,4 +1,4 @@
- define(['jquery', 'underscore', 'Q', 'others/Cache'],
+ define(['jquery', 'underscore', 'Q', 'others/cache'],
     function($, _, Q, Cache) {
     "use strict";
 
