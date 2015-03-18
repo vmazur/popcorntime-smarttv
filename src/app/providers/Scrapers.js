@@ -1,4 +1,4 @@
- define(['jquery', 'underscore', 'backbone', 'models/Movie', 'providers/Ysubs', 'others/Cache', 'providers/trakttv', 'async'],
+ define(['jquery', 'underscore', 'backbone', 'models/Movie', 'providers/Ysubs', 'others/cache', 'providers/trakttv', 'async'],
     function($, _, Backbone, Movie, Ysubs, Cache, trakt, async) {
 
     function request (uri, options, callback) {
